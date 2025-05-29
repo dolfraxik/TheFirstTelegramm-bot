@@ -1,2 +1,2 @@
 # TheFirstTelegramm-bot
-My first Telegram bot, it created Python
+My first Telegram bot, it is created in Python
